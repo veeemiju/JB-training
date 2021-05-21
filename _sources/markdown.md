@@ -2,7 +2,7 @@
 # Omat opettelut
 mites tämä Ä
 
-See some hided content below
+See some hidden content below
 ```{admonition} Click the button to see your secret message
 :class: dropdown
 

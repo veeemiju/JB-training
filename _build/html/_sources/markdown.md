@@ -1,3 +1,14 @@
+% !TEX encoding = UTF-8 Unicode
+# Omat opettelut
+mites tämä Ä
+
+See some hided content below
+```{admonition} Click the button to see your secret message
+:class: dropdown
+
+Moi
+```
+
 # Markdown Files
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or

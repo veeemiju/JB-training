@@ -1,7 +1,6 @@
 jupyter-book
 matplotlib
 numpy
-pythonTVReconstruction
 scipy
 sklearn.preprocessing
 skimage.transform

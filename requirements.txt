@@ -1,7 +1,5 @@
 jupyter-book
 matplotlib
 numpy
-interactive
-Symbol
-solve
-
+ipywidgets
+sympy
